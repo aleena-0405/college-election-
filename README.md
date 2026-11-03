@@ -1,3 +1,7 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2a5a5bd2-cece-4569-9fe7-a1c3b822fba7" />
+
+
+
 # 🗳️ Ballot Box - College Election System
 
 A secure and web-based College Election System developed to digitize and simplify student elections. The platform enables secure voter registration, tutor verification, candidate nomination, online voting, automated vote counting, and real-time election monitoring. It improves transparency, accessibility, and efficiency while eliminating the limitations of traditional paper-based elections.
