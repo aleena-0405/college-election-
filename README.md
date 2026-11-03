@@ -91,10 +91,10 @@ Admin Publishes Results
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](images/home.png)
+[![Home](images/home.png)](https://drive.google.com/file/d/11BpzVJPfgKSK162-zbqg4MiHOIjmbmx_/view?usp=sharing)
 
 ### 📝 Voter Registration
-![Voter Registration](images/voter-registration.png)
+[![Voter Registration](images/voter-registration.png)](https://drive.google.com/file/d/1wewV5OKXEbS9cU1aEFHgtJy0dNuHSpQD/view?usp=sharing)
 
 ### 🗳️ Candidate Registration
 ![Candidate Registration](images/candidate-registration.png)
