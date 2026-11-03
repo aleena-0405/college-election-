@@ -91,31 +91,38 @@ Admin Publishes Results
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-[![Home](images/home.png)](https://drive.google.com/file/d/11BpzVJPfgKSK162-zbqg4MiHOIjmbmx_/view?usp=sharing)
+<img width="1044" height="565" alt="image" src="https://github.com/user-attachments/assets/c5d18e37-be87-49b3-952a-6b3805e428c9" />
+
 
 ### 📝 Voter Registration
-[![Voter Registration](images/voter-registration.png)](https://drive.google.com/file/d/1wewV5OKXEbS9cU1aEFHgtJy0dNuHSpQD/view?usp=sharing)
+<img width="1045" height="586" alt="image" src="https://github.com/user-attachments/assets/60c6126a-344f-4a32-adac-36004f3119d8" />
 
 ### 🗳️ Candidate Registration
-![Candidate Registration](images/candidate-registration.png)
+<img width="1055" height="598" alt="image" src="https://github.com/user-attachments/assets/46f3d3ad-0c39-493c-ad47-5c507ea58230" />
+
 
 ### 👨‍🏫 Tutor Dashboard
-![Tutor Dashboard](images/tutor-dashboard.png)
+<img width="1052" height="602" alt="image" src="https://github.com/user-attachments/assets/2cceb80e-21f6-4dae-91ae-645ad0712ef5" />
+
 
 ### 👨‍💼 Admin Dashboard
-admin.png
+<img width="978" height="574" alt="image" src="https://github.com/user-attachments/assets/0cd9f251-e8d7-4550-8135-2b7ba09984f4" />
+
 
 ### 📅 Election Timeline
 ![Election Timeline](images/election-timeline.png)
 
 ### 📊 Live Monitoring
-![Live Monitoring](images/live-monitoring.png)
+<img width="1002" height="532" alt="image" src="https://github.com/user-attachments/assets/516b4cdc-c64d-4ce7-aa92-737c70aa02e4" />
+
 
 ### 🗳️ Voting Page
-![Voting](images/voting-page.png)
+<img width="1032" height="549" alt="image" src="https://github.com/user-attachments/assets/b6aaad52-e07d-460e-a9af-627ef03d35e8" />
+
 
 ### 🏆 Election Results
-![Results](images/result-page.png)
+<img width="979" height="561" alt="image" src="https://github.com/user-attachments/assets/77ce169c-d5aa-4507-9040-a9102d0f2cad" />
+
 
 ---
 
