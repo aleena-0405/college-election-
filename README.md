@@ -103,7 +103,7 @@ Admin Publishes Results
 ![Tutor Dashboard](images/tutor-dashboard.png)
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](images/admin-dashboard.png)
+admin.png
 
 ### 📅 Election Timeline
 ![Election Timeline](images/election-timeline.png)
